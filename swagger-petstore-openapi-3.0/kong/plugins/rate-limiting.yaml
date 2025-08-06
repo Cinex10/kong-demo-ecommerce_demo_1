@@ -1,0 +1,6 @@
+name: rate-limiting
+route: example_name
+config:
+  second: 5
+  hour: 1000
+  policy: local
