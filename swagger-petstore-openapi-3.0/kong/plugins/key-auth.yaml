@@ -1,0 +1,5 @@
+name: key-auth
+service: service_name
+config:
+  key_names:
+  - apikey
